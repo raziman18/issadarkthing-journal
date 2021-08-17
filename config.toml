@@ -2,6 +2,8 @@ baseURL = 'http://issadarkthing.com/'
 languageCode = 'en-us'
 title = "issadarkthing's journal"
 theme = "etch"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
 
 [params]
   description = "issadarkthing personal blog"
@@ -22,3 +24,6 @@ theme = "etch"
   title = "about"
   url = "/about/"
   weight = 20
+
+[permalinks]
+  posts = "/:title/"
