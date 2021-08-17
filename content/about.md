@@ -9,5 +9,4 @@ express my nerd self to the world. I don't really have a nerd friend for me to
 talk with; so yeah this is me rambling about technology in my own blog.
 
 I am a mechanical engineering student who loves to do programming as a hobby. I
-spend most of my time doiing programming project regardless it was beneficial
-for me or not. 
+spend most of my time contributing to open source project.
