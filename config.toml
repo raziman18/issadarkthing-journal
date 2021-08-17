@@ -4,6 +4,7 @@ title = "issadarkthing's journal"
 theme = "etch"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
+googleAnalytics = "G-17S8480P0Z"
 
 [params]
   description = "issadarkthing personal blog"
