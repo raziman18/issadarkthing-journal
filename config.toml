@@ -5,6 +5,7 @@ theme = "etch"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 googleAnalytics = "G-17S8480P0Z"
+enableRobotsTXT = true
 
 [params]
   description = "issadarkthing personal blog"
