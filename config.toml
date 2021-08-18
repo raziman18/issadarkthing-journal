@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 [params]
   description = "issadarkthing personal blog"
-  copyright = "Copyright © 2021 Raziman"
+  copyright = "Copyright © 2021 issadarkthing"
   dark = "on"
   highlight = true
 
