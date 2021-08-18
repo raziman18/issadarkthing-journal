@@ -3,6 +3,8 @@ title: "About"
 draft: false
 ---
 
+{{< figure src="/static/terra-outline.png" width="100" >}}
+
 Hi, im issadarkthing. I'm making this website to express my nerd self to the
 world. I don't really have a nerd friend for me to talk with; so yeah this is me
 talking about technology in my own blog.
