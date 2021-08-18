@@ -2,6 +2,7 @@
 title: "Battery Low Warn Script"
 date: 2021-08-17T20:42:57+08:00
 draft: false
+tags: ["bash", "window_manager"]
 ---
 
 If you are using window manager for example [i3](https://i3wm.org/) or

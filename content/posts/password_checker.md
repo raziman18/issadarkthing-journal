@@ -2,6 +2,7 @@
 title: "Password Checker"
 date: 2021-08-18T12:40:59+08:00
 draft: false
+tags: ["bash", "password"]
 ---
 
 Have you ever wondered if your password has been breached or exposed to the

@@ -1,6 +1,7 @@
 ---
 title: "Kill Process Using Fzf"
 date: 2021-08-17T17:48:24+08:00
+tags: ["bash", "fzf"]
 ---
 
 
