@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h3>Post{{ if gt (len .Pages) 1 }}s{{ end }} related to #{{ .Title }}:</h3>
+<ul id="posts">
+{{- range .Pages }}
+    {{ .Render "li" }}
+{{- end }}
+</ul>
+<script defer>
+  const times = document.getElementsByTagName("time");
+
+  for (const time of times) {
+    const dt = luxon.DateTime.fromISO(time.textContent);
+    time.textContent = dt.toRelative()
+  }
+</script>
+{{ end }}
