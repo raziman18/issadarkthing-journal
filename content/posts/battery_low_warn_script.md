@@ -12,7 +12,7 @@ user like me, this script may become handy.
 
 Running `$ upower -i /org/freedesktop/UPower/devices/battery_BAT1` will output
 info about your laptop's battery.
-```
+```sh
   native-path:          BAT1
   vendor:               Hewlett-Packard
   model:                PABAS0241231

@@ -64,7 +64,6 @@ through the list and check against our hashed password without the first 5
 character suffix.
 
 ```sh
-
 while read -r RES; do
 
   PW=${RES%:*}
