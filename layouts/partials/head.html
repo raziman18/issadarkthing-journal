@@ -28,8 +28,7 @@
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
     {{ template "_internal/google_analytics.html" . }}
 
-    {{ printf `<script src="%s" type="text/javascript"></script>` 
-      ("static/luxon.js" | absURL) | safeHTML }}
+    {{ printf `<script src="%s" type="text/javascript"></script>` ("static/luxon.js" | absURL) | safeHTML }}
     
     <title>{{ .Title }}</title>
 </head>
