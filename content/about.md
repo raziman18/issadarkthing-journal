@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-{{< figure src="/static/author.png" width="200" >}}
+{{< figure src="/static/author.png" alt="image of a person" width="200" >}}
 
 Hi, im **issadarkthing**. I'm making this website to express my nerd self to the
 world. I also do it to contribute back to the open source community.
