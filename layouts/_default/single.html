@@ -24,6 +24,8 @@
     {{ end }}
 
     <div class="justify">{{- .Content -}}</div>
+
+    {{ template "_internal/disqus.html" . }}
 </article>
 <script defer>
   const times = document.getElementsByTagName("time");

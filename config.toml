@@ -6,6 +6,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 googleAnalytics = "G-17S8480P0Z"
 enableRobotsTXT = true
+disqusShortname = "issadarkthing-com"
 
 [params]
   description = "issadarkthing personal blog"
