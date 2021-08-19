@@ -282,6 +282,7 @@ footer#footer {
 
 div#icons a {
     text-decoration: none;
+    color: #00b1ed;
 }
 
 div#icons a:hover {
