@@ -274,3 +274,15 @@ footer#footer {
     color: #949494;
     margin: 40px 0;
 }
+
+div#icons a {
+    text-decoration: none;
+}
+
+div#icons a:hover {
+    text-decoration: underline;
+}
+
+div#copyright {
+    display: flex;
+}
