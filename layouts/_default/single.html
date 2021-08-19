@@ -25,7 +25,14 @@
 
     <div class="justify">{{- .Content -}}</div>
 
-    {{ template "_internal/disqus.html" . }}
+    {{ if isset .Params "comment" }}
+      {{ if .Params.comment }}
+        {{ template "_internal/disqus.html" . }}
+      {{ end }}
+    {{ else }}
+      {{ template "_internal/disqus.html" . }}
+    {{ end }}
+
 </article>
 <script defer>
   const times = document.getElementsByTagName("time");

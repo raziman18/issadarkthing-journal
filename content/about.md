@@ -1,6 +1,7 @@
 ---
 title: "About"
 draft: false
+comment: false
 ---
 
 {{< figure src="/static/author.png" alt="image of a person" width="200" >}}
