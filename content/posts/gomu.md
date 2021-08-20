@@ -44,11 +44,11 @@ manually re-add your songs back to queue. The songs are organized according to
 their layout on the filesystem. By default, gomu will search song in `~/Music`
 directory. You can always change this in the config `~/.config/gomu/config`
 
-Did I tell you that it has embedded programming language? It uses anko a
-golang like scripting language. This scripting language is used to script some
-things like adding event listener when the song changes and call `notify-send`
-to show notification about the currently played song. It is also used to change
-or add new keybindings.
+Did I tell you that it has embedded programming language? It uses
+[anko](https://github.com/mattn/anko) a golang like scripting language. This
+scripting language is used to script some things like adding event listener when
+the song changes and call `notify-send` to show notification about the currently
+played song. It is also used to change or add new keybindings.
 
 If you want to try out gomu for yourself, you can go to this
 [repository](https://github.com/issadarkthing/gomu). Feel free to contribute
