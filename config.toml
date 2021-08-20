@@ -1,6 +1,6 @@
 baseURL = 'http://issadarkthing.com/'
 languageCode = 'en-us'
-title = "Blog that discusses about technology and open source softwares"
+title = "issadarkthing's journal"
 theme = "etch"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -9,7 +9,7 @@ enableRobotsTXT = true
 disqusShortname = "issadarkthing-com"
 
 [params]
-  description = "issadarkthing personal blog"
+  description = "blog that discusses about open source software"
   copyright = "Copyright © 2021 issadarkthing"
   dark = "on"
   highlight = true
