@@ -4,11 +4,3 @@
     {{ .Render "li" }}
 {{- end }}
 </ul>
-<script defer>
-  const times = document.getElementsByTagName("time");
-
-  for (const time of times) {
-    const dt = luxon.DateTime.fromISO(time.textContent);
-    time.textContent = dt.toRelative()
-  }
-</script>
