@@ -24,14 +24,5 @@
     {{ end }}
 
     <div class="justify">{{- .Content -}}</div>
-
-    {{ if isset .Params "comment" }}
-      {{ if .Params.comment }}
-        {{ template "_internal/disqus.html" . }}
-      {{ end }}
-    {{ else }}
-      {{ template "_internal/disqus.html" . }}
-    {{ end }}
-
 </article>
 {{ end }}
