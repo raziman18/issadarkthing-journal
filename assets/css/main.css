@@ -292,3 +292,8 @@ div#icons a:hover {
 div#copyright {
     display: flex;
 }
+
+@font-face {
+  font-family: "Damage Plan";
+  src: url(/static/DamagePlan.ttf);
+}

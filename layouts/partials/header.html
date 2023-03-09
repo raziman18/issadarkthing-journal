@@ -1,13 +1,17 @@
 <header id="banner">
     <a href="{{ .Site.BaseURL }}" style="display: flex; align-items: center;">
       <img alt="terra logo" src="/static/terra-outline.png" width="50"></img>
-      <h1>{{ .Site.Title }}</h1>
+      <h1 style="font-family: Damage Plan; font-size: 40px">{{ .Site.Title }}</h1>
     </a>
     <nav>
         <ul>
             {{ range .Site.Menus.main.ByWeight -}}
             <li>
-                {{ .Pre }}<a href="{{ .URL }}" title="{{ .Title }}">{{- .Name -}}</a>{{ .Post }}
+                {{ .Pre }}
+                <a href="{{ .URL }}" title="{{ .Title }}">
+                  {{- .Name -}}
+                </a>
+                {{ .Post }}
             </li>
             {{- end }}
         </ul>

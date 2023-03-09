@@ -1,6 +1,6 @@
 baseURL = 'http://issadarkthing.com/'
 languageCode = 'en-us'
-title = "issadarkthing's journal"
+title = "journal of issadarkthing"
 theme = "etch"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
