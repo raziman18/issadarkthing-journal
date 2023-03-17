@@ -10,7 +10,7 @@ disqusShortname = "issadarkthing-com"
 
 [params]
   description = "blog that discusses about open source software"
-  copyright = "Copyright © 2021 issadarkthing"
+  copyright = "Copyright © 2023 issadarkthing"
   dark = "on"
   highlight = true
 
