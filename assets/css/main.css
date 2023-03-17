@@ -294,6 +294,11 @@ div#copyright {
 }
 
 @font-face {
-  font-family: "Damage Plan";
-  src: url(/static/DamagePlan.ttf);
+    font-family: "Damage Plan";
+    src: url(/static/DamagePlan.ttf);
+}
+
+@font-face {
+    font-family: "Las Vegas";
+    src: url(/static/LasVegas.otf);
 }
