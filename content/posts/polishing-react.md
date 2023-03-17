@@ -81,9 +81,14 @@ width="60%"
 caption="User page"
 >}}
 
+The application is of course open source. You may check the source code for the
+application 
+[https://github.com/issdarkthing/anon-site](https://github.com/issadarkthing/anon-site).
+
 ### References
 - [https://anonmi.online](https://anonmi.online) (Anonymous messaging
   application made by me)
+- [https://github.com/issadarkthing/anon-site](https://github.com/issadarkthing/anon-site)
 - [https://react.dev](https://react.dev)
 - [https://vercel.com/](https://vercel.com/)
 - [https://expressjs.com/](https://expressjs.com/)
