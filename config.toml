@@ -1,7 +1,7 @@
 baseURL = 'http://issadarkthing.com/'
 languageCode = 'en-us'
 title = "journal of issadarkthing"
-theme = "etch"
+theme = "terra"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 googleAnalytics = "G-17S8480P0Z"

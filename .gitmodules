@@ -1,3 +1,3 @@
-[submodule "themes/etch"]
-	path = themes/etch
+[submodule "themes/terra"]
+	path = themes/terra
 	url = https://github.com/issadarkthing/etch.git
