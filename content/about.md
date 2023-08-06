@@ -4,8 +4,6 @@ draft: false
 comment: false
 ---
 
-{{< figure src="/static/author.png" alt="image of a person" width="250" >}}
-
 Hi, im **issadarkthing** (raziman). I'm making this website to express my nerd self to the
 world. Back in 2019, I was intrigued how we are able to instruct computer how to do
 certain things effectively and efficiently. From there I start to pickup on a
