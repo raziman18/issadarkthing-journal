@@ -71,12 +71,12 @@ Finally, after making logo and put a name on it. I've made an application namely
 of mind the application is finally complete. This is an overview of the website.
 
 {{< figure
-src="https://res.cloudinary.com/hiremap/image/upload/v1679039216/screenshot-2023-03-17_15_41_45_mlqnnf.png" 
+src="https://res.cloudinary.com/hiremap/image/upload/v1691330148/anonmi-frontpage_krr0yy.png" 
 width="60%"
 caption="Front page of Anonmi"
 >}}
 {{< figure
-src="https://res.cloudinary.com/hiremap/image/upload/v1679039182/screenshot-2023-03-17_15_41_34_rtv2ab.png" 
+src="https://res.cloudinary.com/hiremap/image/upload/v1691330157/anonmi-userpage_liu0fx.png" 
 width="60%"
 caption="User page"
 >}}
