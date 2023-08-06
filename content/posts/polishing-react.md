@@ -83,7 +83,7 @@ caption="User page"
 
 The application is of course open source. You may check the source code for the
 application 
-[https://github.com/issdarkthing/anon-site](https://github.com/issadarkthing/anon-site).
+[https://github.com/issadarkthing/anon-site](https://github.com/issadarkthing/anon-site).
 
 ### References
 - [https://anonmi.online](https://anonmi.online) (Anonymous messaging
