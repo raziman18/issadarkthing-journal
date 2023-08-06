@@ -17,10 +17,6 @@ body {
     line-height: 1.6;
 }
 
-.justify {
-    text-align: justify;
-    text-justify: inter-word;
-}
 
 header#banner {
     margin: 25px 0;
