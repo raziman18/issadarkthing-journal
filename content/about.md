@@ -21,5 +21,5 @@ increases my experience in dealing or handling with clients.
 
 ### tldr;
 
-I am a mechanical engineering student who love to do programming as a hobby. I
+I was a mechanical engineering student who love to do programming as a hobby. I
 spend most of my time programming and discover new softwares available out there.
