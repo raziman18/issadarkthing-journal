@@ -1,5 +1,5 @@
 ---
-title: "I Created A Programming Language (Part 1)"
+title: "My Programming Language (Part 1)"
 date: 2022-04-02T18:52:53+08:00
 tags: ["programming-language", "project-showcase"]
 ---
