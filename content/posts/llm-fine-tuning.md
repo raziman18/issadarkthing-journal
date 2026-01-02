@@ -28,8 +28,8 @@ parameter model on this machine.
 
 When I first starting out trying to setup `unsloth` on DGX Spark, it did not
 work right out of the box. There were dependencies issues, incompatible
-libraries, it's docker image is for x86_64 which is incompatible with our
-machine that uses aarch64. This whole thing trying to setup on supposedly AI
+libraries, it's docker image is for `x86_64` which is incompatible with our
+machine that uses `aarch64`. This whole thing trying to setup on supposedly AI
 supercomputer is not user friendly and took me the whole day before I ever get
 into actual fine-tuning. So I've written a [Dockerfile](https://github.com/raziman18/unsloth-dgx-spark) that is proven to be working
 on DGX Spark machine.
